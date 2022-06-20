@@ -1,4 +1,8 @@
 {
   "name": "react-webpack-swc-boilerplate",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.204"
+  }
 }
